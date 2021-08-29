@@ -1,2 +1,2 @@
-This is Satyam. I am trying
-learning version control in GIT
+This is Rvam. I am trying
+learning version control in BIT.
